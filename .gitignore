@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+.pytest_cache/
+
+# Node / TypeScript
+node_modules/
+dist/
+*.js.map
+
+# OS
+.DS_Store
+
+# HTML scratch files
+*.html
